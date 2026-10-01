@@ -13,8 +13,6 @@
     <maven.compiler.target>8</maven.compiler.target>
 </properties>
 
-<dependencies>
-
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
